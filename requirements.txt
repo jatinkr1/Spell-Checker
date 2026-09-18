@@ -1,0 +1,3 @@
+pyspellchecker
+# pip install pyspellchecker
+#first download this module in order to check the spellings pls.
