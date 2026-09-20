@@ -19,10 +19,10 @@ A simple command-line Spell Checker built using Python and the "pyspellchecker" 
 📂 Project Structure
 
 Spell-Checker/
-│
-├── spell_checker.py
-├── requirements.txt
-└── README.md
+
+ 1.README.md
+ 2.requirements.txt
+ 3.spell_checker.py
 
 ⚙️ Installation & Usage
 
