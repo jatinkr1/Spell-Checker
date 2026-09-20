@@ -20,9 +20,10 @@ A simple command-line Spell Checker built using Python and the "pyspellchecker" 
 
 Spell-Checker/
 
- 1.README.md
- 2.requirements.txt
- 3.spell_checker.py
+ 1.README.md<br>
+ 2.requirements.txt<br>
+ 3.spell_checker.py<br>
+ <hr>
 
 ⚙️ Installation & Usage
 
