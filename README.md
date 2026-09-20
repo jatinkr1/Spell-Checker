@@ -1,4 +1,4 @@
-<strong>🔤 Python Spell Checker</strong>
+<u><strong>🔤 Python Spell Checker</strong></u>
 
 A simple command-line Spell Checker built using Python and the "pyspellchecker" library. It detects misspelled words and automatically suggests corrections.
 
